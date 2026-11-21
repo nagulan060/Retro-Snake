@@ -2,7 +2,7 @@
 
 A classic, lightweight **Snake** arcade game built with pure HTML5 Canvas and vanilla JavaScript. Zero dependencies, instant loading, and built-in retro styling.
 
-👉 **[Play it live here!](https://YOUR-USERNAME.github.io/retro-snake/)** *(Make sure to update this link with your GitHub Pages URL!)*
+👉 **[Play it live here!](https://nagulan060.github.io/Retro-Snake/)** *
 
 ---
 
@@ -33,4 +33,4 @@ Want to run or tweak the code on your machine? It takes 5 seconds:
 
 1. Clone or download the repo:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/retro-snake.git](https://github.com/YOUR-USERNAME/retro-snake.git)
+   git clone https://github.com/nagulan060/Retro-Snake.git
