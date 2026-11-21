@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Retro Snake</title>
+  <style>
+    body {
+      background: #111;
+      color: #33ff33;
+      font-family: monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    canvas {
+      border: 2px solid #33ff33;
+      background: #050505;
+      box-shadow: 0 0 20px rgba(51, 255, 51, 0.2);
+    }
+    .hud {
+      width: 400px;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+      font-size: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="hud">
+    <span>SCORE: <span id="score">0</span></span>
+    <span>HIGH: <span id="highScore">0</span></span>
+  </div>
+  <canvas id="gameCanvas" width="400" height="400"></canvas>
+  <p>Use Arrow Keys or WASD to move • Space to Restart</p>
+  <script src="game.js"></script>
+</body>
+</html>
