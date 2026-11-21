@@ -2,7 +2,7 @@
 
 A classic, lightweight **Snake** arcade game built with pure HTML5 Canvas and vanilla JavaScript. Zero dependencies, instant loading, and built-in retro styling.
 
-👉 **[Play it live here!](https://nagulan060.github.io/Retro-Snake/)** *
+👉 **[Play it live here!](https://nagulan060.github.io/Retro-Snake/)**
 
 ---
 
